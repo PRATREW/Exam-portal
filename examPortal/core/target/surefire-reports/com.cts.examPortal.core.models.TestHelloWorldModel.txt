@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cts.examPortal.core.models.TestHelloWorldModel
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.194 sec - in com.cts.examPortal.core.models.TestHelloWorldModel
