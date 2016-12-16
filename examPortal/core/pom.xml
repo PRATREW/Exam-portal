@@ -51,7 +51,7 @@
                     </instructions>
                 </configuration>
             </plugin>
-        </plugins>
+        </plugins> 
     </build>
     <profiles>
         <!-- Development profile: install only the bundle -->
