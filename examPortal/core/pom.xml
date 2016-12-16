@@ -45,7 +45,10 @@
                             artifactId2;inline=true
                         </Embed-Dependency>
                         -->
-                        
+                        <Import-Package>
+				             !javax.inject;
+				             *;
+				        </Import-Package>
                         <Sling-Model-Packages>
                             com.cts.examPortal.core
                         </Sling-Model-Packages>
