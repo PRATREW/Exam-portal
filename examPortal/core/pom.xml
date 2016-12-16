@@ -45,6 +45,7 @@
                             artifactId2;inline=true
                         </Embed-Dependency>
                         -->
+                        
                         <Sling-Model-Packages>
                             com.cts.examPortal.core
                         </Sling-Model-Packages>
